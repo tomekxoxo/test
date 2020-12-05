@@ -26,7 +26,7 @@ function App() {
   
   
   return (
-    <h1>ASD<p>ttt</p></h1>
+    <h1>Main</h1>
   )
 }
 
